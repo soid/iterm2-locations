@@ -2,7 +2,8 @@
 #
 # D.N.D.
 #
-
+# This script is part of the project: https://github.com/soid/iterm2-locations
+#
 
 # It uses this tool for pre-command hooks in bash: https://github.com/rcaloras/bash-preexec
 ITERM2_LOCATIONS_DIR=~/.iterm2-locations/locations
