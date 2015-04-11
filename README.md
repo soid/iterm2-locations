@@ -4,7 +4,7 @@ Saves iTerm2 tab locations and restore them after restarting iTerm2.
 ### Install
 
 Checkout the scripts:
-`git clone https://github.com/soid/iterm2-locations.git ~/.iterm2-locations2`
+`git clone https://github.com/soid/iterm2-locations.git ~/.iterm2-locations`
 
 Add the script to your ~/.bash_profile
 ```
