@@ -4,7 +4,7 @@ Saves iTerm2 tab locations and restore them after restarting iTerm2.
 ### Quick Install
 Run in iTerm2:
 ```
-curl -s 'https://raw.githubusercontent.com/soid/iterm2-locations/master/src/quick-install.sh' | sh
+curl -sL 'http://j.mp/it2lctns' | sh
 ```
 
 ### Manual Install
