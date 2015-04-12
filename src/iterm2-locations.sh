@@ -11,7 +11,7 @@ BASH_PREEXEC_URL=https://raw.githubusercontent.com/rcaloras/bash-preexec/master/
 BASH_PREEXEC_FILE=~/.bash-preexec.sh
 
 # Install bash-preexec if it's not installed already
-[[ ! -f $BASH_PREEXEC_FILE ]] && curl $BASH_PREEXEC_URL > $BASH_PREEXEC_FILE
+[[ ! -f $BASH_PREEXEC_FILE ]] && curl -ks $BASH_PREEXEC_URL > $BASH_PREEXEC_FILE
 
 # Create directory for keeping locations
 [[ ! -d $ITERM2_LOCATIONS_DIR ]] && mkdir -p $ITERM2_LOCATIONS_DIR
